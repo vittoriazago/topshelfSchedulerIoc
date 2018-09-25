@@ -1,4 +1,4 @@
-# A Topshelf application with scheduler and depency injection resolution
+# A Topshelf application with scheduler and depency injection resolution  [![Build Status](https://travis-ci.org/vittoriazago/topshelfSchedulerIoc.svg?branch=master)](https://travis-ci.org/vittoriazago/topshelfSchedulerIoc)
 A topshelf application, easy to deploy, with scheduler, log and dependency injection
 
 You must install:
